@@ -1,4 +1,4 @@
-name: ci
+name: test
 
 on:
   push:
@@ -28,4 +28,5 @@ jobs:
         run: cargo run --example wallet_integration
 
       - name: CLI smoke test
-        run: cargo run -- 68656c6c6f | grep "format: text"
+        run: |
+          cargo run -- 68656c6c6f | grep "format: text"
