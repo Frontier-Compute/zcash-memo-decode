@@ -1,1 +1,0 @@
-/opt/builds/zcash-memo-decode/wasm/target/wasm32-unknown-unknown/release/zcash_memo_decode_wasm.wasm: /opt/builds/zcash-memo-decode/src/lib.rs /opt/builds/zcash-memo-decode/src/tvlv.rs /opt/builds/zcash-memo-decode/wasm/src/lib.rs
