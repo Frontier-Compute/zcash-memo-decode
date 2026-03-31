@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions are welcome. This crate is intended as shared Zcash ecosystem infrastructure.
+Contributions welcome. This is shared Zcash infrastructure.
 
 ## Before you start
 
